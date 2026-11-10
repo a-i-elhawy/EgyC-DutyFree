@@ -1,0 +1,6 @@
+*.json
+*.accdb
+*.mdb
+/target/
+/build/
+.nbproject/private/

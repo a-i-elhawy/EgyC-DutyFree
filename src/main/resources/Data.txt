@@ -1,0 +1,1 @@
+jdbc:ucanaccess://D:\programs\JavaApplications\EgyC_DutyFree6.0.0\src\main\resources\accounts.accdb
